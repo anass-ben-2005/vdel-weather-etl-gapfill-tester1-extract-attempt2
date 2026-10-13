@@ -1,0 +1,4 @@
+tests/hidden/
+__pycache__/
+*.pyc
+.pytest_cache/
